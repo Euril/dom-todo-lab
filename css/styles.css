@@ -1,0 +1,15 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+/* 
+form.form-example {
+  display: table;
+}
+
+div.form-example {
+  display: table-row;
+} */
